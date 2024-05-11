@@ -1,0 +1,20 @@
+[
+    {
+        "name": "NFT 1",
+        "slug": "NFT-1",
+        "description": "En este NFT podemos ver a un perro salchicha disfrazado de una salchicha",
+        "picture": "https://i.pinimg.com/736x/6c/e4/79/6ce47984c1b4ba9b6ee1d33e9f5969b7.jpg"
+    },
+    {
+        "name": "NFT 2",
+        "slug": "NFT-2",
+        "description": "Un mono con unos lentes cool",
+        "picture": "https://www.shutterstock.com/image-vector/nft-monkey-vector-illustration-gorillahead-600nw-2089212670.jpg"
+    },
+    {
+        "name": "NFT 3",
+        "slug": "NFT-3",
+        "description": "Un gato con un patito",
+        "picture" : "https://st.depositphotos.com/50978076/61396/i/450/depositphotos_613963518-stock-photo-cute-cartoon-doodle-character-kids.jpg"
+    }
+]

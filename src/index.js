@@ -35,5 +35,8 @@ const router = createBrowserRouter([
   
   const root = createRoot(document.getElementById("root"));
   root.render(
-    <RouterProvider router={router} />
+    <div className="color">
+      <RouterProvider router={router} />
+      </div>
+    
   );
